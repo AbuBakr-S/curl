@@ -1,0 +1,1 @@
+curl -u stageonpremnsftp:guEgnSZF9YsJQza2 'ftp://stageonprem.upload.akamai.com/660010/utils/ios/ITV_Mobile_AppConfig-i01.xml' -o TestRoot/test.xml
